@@ -1,5 +1,5 @@
 # EdSigh-Ed-Tech
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Intro%20Image.PNG)
+![Data Analyst](https://github.com/Tomidapo/EdSigh-Ed-Tech/blob/main/Unknown)
 
 ## Introduction
 EdSigh Ed-Tech is a prominent global online learning platform that has established itself as a leader in the field of e-learning since its establishment in 2010. The platform is renowned for providing a diverse array of courses across a wide spectrum of subjects, catering to the learning needs of millions of students and educators worldwide.EdSigh Ed-Tech's vision revolves around democratizing education, allowing individuals from all walks of life to acquire knowledge and skills. By leveraging technology, the platform has become a transformative force in education, breaking down traditional barriers and fostering a global learning community.
@@ -25,7 +25,7 @@ Optimizing Marketing and Promotions
 - Dashboard Development
 
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Express%20Logistics%20Image.jpg)
+![Data Analyst](https://github.com/Tomidapo/EdSigh-Ed-Tech/blob/main/Unknown-3)
 
 ## Modelling
 In the context of your project at EdSigh Ed-Tech, "modeling" refers to the process of creating mathematical representations or algorithms that can predict, analyze, or optimize various aspects of the business based on the available data. Here are several modeling approaches you might consider:
@@ -40,7 +40,7 @@ Interactive visualizations were created Using **SQL* to represent key insights a
 
 ## Analysis
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Decomposition%20Tree%20Analysis.PNG)
+![Data Analyst](https://github.com/Tomidapo/EdSigh-Ed-Tech/blob/main/Screenshot%202024-01-03%20at%2019.59.19.jpg)
 
 In the analysis phase of your project at EdSigh Ed-Tech, you would perform in-depth examinations of the data to extract meaningful insights. Here are several key analyses that you can conduct based on the features and objectives outlined:
 
@@ -53,7 +53,7 @@ Course Type Analysis
 ## Dashboard View
 Our interactive dashboard provides a comprehensive overview of logistics performance metrics, customer feedback analysis, and real-time tracking of deliveries.
 
-![Data Analyst](https://github.com/princeadeakanni/Express_Logistics/blob/main/Main%20Dashboard.PNG)
+![Data Analyst](https://github.com/Tomidapo/EdSigh-Ed-Tech/blob/main/Screenshot%202024-01-03%20at%2019.59.07.jpg)
 
 
 ## Recommendations for Business Growth:
